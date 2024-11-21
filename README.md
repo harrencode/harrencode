@@ -24,8 +24,8 @@ Passionate about learning and building robust, scalable systems.
 | 📌 **Project Name**             | 🚀 **Description**                              | 🌐 **Links**          |
 |---------------------------------|------------------------------------------------|-----------------------|
 | **Daily Site Progress Manager** | A tool to track and report site progress dynamically. | [View Repository](https://github.com/harrencode/daily-site-progress-management-system)   |
-| **[Vehicle Rental System]**      | A mobile application built for Android to guess a hidden word within a limited number of tries.  | [View Repository](https://github.com/SaviduOfficial/carRental)   |
-| **[MAD Word Guessing Game]**      | A brief description with key features.        | [View Repository](https://github.com/harrencode/mad_word_guessing_game)   |
+| **[Vehicle Rental System]**      | A group project for a vehicle rental service web application built using PHP, CSS, and JavaScript.  | [View Repository](https://github.com/SaviduOfficial/carRental)   |
+| **[MAD Word Guessing Game]**      | A mobile application built for Android to guess a hidden word within a limited number of tries.  | [View Repository](https://github.com/harrencode/mad_word_guessing_game)   |
 
 ---
 
