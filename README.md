@@ -13,8 +13,8 @@ Passionate about learning and building robust, scalable systems.
 
 ## 🌟 **Tech Stack**
 
-- **Languages**:  C#, Java, PHP, JavaScript, SQL, Python 
-- **Frameworks**: .NET Framework, ASP.NET, Laveral, Spring, Django
+- **Languages**:  Python, Java, C#, PHP, JavaScript 
+- **Frameworks**:  FastAPI, .NET Framework, Spring, Django
 - **Tools**: Visual Studio, Git, Wireshark, Vite, Android Studio
 
 ---
