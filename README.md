@@ -27,7 +27,7 @@ Passionate about learning and building robust, scalable systems.
 | **[Vehicle Rental System]**      | A group project for a vehicle rental service web application built using PHP, CSS, and JavaScript.  | [View Repository](https://github.com/SaviduOfficial/carRental)   |
 | **[MAD Word Guessing Game]**      | A mobile application built for Android to guess a hidden word within a limited number of tries.  | [View Repository](https://github.com/harrencode/mad_word_guessing_game)   |
 | **[Highway Bus Mate]**      | This app will help people to view highway bus time table, Seat reservation, online paying for tickets, E-ticket concept (**Ongoing**) | [View Repository](https://github.com/harrencode/highway-bus-mate)   |
-| **[Book Shelf]**      | A web application that retrieves book details from the Google Books API and displays them as a list on the main page. (**Ongoing**) | [View Repository](https://github.com/harrencode/book-shelf)   |
+| **[Book Shelf]**      | A web application that retrieves book details from the Google Books API and displays them as a list on the main page. | [View Repository](https://github.com/harrencode/book-shelf)   |
 
 ---
 
