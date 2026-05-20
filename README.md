@@ -157,7 +157,7 @@ Rental Management Platform
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://harrencode.github.io/">
-<img src="./assets/portfolio-icon.svg" width="48"/><br/>
+<img src="./assets/portfolio-icon.png" width="48"/><br/>
 Portfolio
 </a>
 
